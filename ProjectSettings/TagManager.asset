@@ -3,7 +3,9 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Photo
+  - Game Manager
   layers:
   - Default
   - TransparentFX
@@ -40,4 +42,31 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Piece 1
+    uniqueID: 3273181593
+    locked: 0
+  - name: Piece 2
+    uniqueID: 3274143571
+    locked: 0
+  - name: Piece 3
+    uniqueID: 1299503051
+    locked: 0
+  - name: Piece 4
+    uniqueID: 3288652863
+    locked: 0
+  - name: Piece 5
+    uniqueID: 782424219
+    locked: 0
+  - name: Piece 6
+    uniqueID: 2877339585
+    locked: 0
+  - name: Piece 7
+    uniqueID: 1545922769
+    locked: 0
+  - name: Piece 8
+    uniqueID: 3317717551
+    locked: 0
+  - name: Piece 9
+    uniqueID: 1761493863
     locked: 0
